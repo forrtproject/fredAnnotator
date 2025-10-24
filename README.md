@@ -1,4 +1,8 @@
 
+# ARCHIVED 
+
+<red> The FReD Annotator is now part of the FReD R package - [forrtproject/FReD](https://github.com/forrtproject/FReD). This separate version will not be maintained. </red>
+
 # fredAnnotator
 
 <!-- badges: start -->
